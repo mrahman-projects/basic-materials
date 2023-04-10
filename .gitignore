@@ -1,0 +1,4 @@
+# filer rules
+*.in
+*.out
+*.pyc
